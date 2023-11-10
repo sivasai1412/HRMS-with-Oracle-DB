@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<location>
+	<indian-location>
+		<pincode pin="500038">
+			<sub-region>SR Nagar</sub-region>
+			<region>Ameerpet</region>
+			<city>Hyderabad</city>
+			<state>Telangana</state>
+			<country>India</country>
+		</pincode>
+		<pincode pin="500082">
+			<sub-region>Somajiguda</sub-region>
+			<region>Nampally</region>
+			<city>Hyderabad</city>
+			<state>Telangana</state>
+			<country>India</country>
+		</pincode>
+		<pincode pin="500070">
+			<sub-region>Vanastalipuram</sub-region>
+			<region>Hayath nagar</region>
+			<city>Hyderabad</city>
+			<state>Telangana</state>
+			<country>India</country>
+		</pincode>
+		<pincode pin="500018">
+			<sub-region>SanathNagar</sub-region>
+			<region>Balanagar</region>
+			<city>Hyderabad</city>
+			<state>Telangana</state>
+			<country>India</country>
+		</pincode>
+		<pincode pin="531149">
+			<sub-region>Araku colony</sub-region>
+			<region>Araku</region>
+			<city>Visakhapatnam</city>
+			<state>Andhra Pradesh</state>
+			<country>India</country>
+		</pincode>
+
+	</indian-location>
+
+	<united-location>
+		<pincode pin="12834">
+			<sub-region>Greenwich</sub-region>
+			<region>Washington</region>
+			<city>Newyork</city>
+			<country>United states</country>
+		</pincode>
+		<pincode pin="95511">
+			<sub-region>Alderpoint</sub-region>
+			<region>Humboldt</region>
+			<city>California</city>
+			<country>United states</country>
+		</pincode>
+		<pincode pin="77485">
+			<sub-region>Wallis</sub-region>
+			<region>Austin</region>
+			<city>Texas</city>
+			<country>United states</country>
+		</pincode>
+		<pincode pin="48139">
+			<sub-region>Hamburg</sub-region>
+			<region>Livingston</region>
+			<city>Michigan</city>
+			<country>United states</country>
+		</pincode>
+		<pincode pin="07930">
+			<sub-region>Chester</sub-region>
+			<region>Morris</region>
+			<city>New Jersey</city>
+			<country>United states</country>
+		</pincode>
+	</united-location>
+
+</location>

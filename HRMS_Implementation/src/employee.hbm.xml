@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC 
+				"-//Hibernate/Hibernate Configuration DTD 5.3//EN"
+				"http://www.hibernate.org/dtd/hibernate-configuration-5.3.dtd">
+	
+
+<hibernate-mapping>
+	<class name="bin.User" table="Employee">
+		<id name="id">
+		<generator class="assigned"></generator>
+		</id>
+		<property name="firstName" column="First_name" type="string"></property>
+		<property name="lastName" column="Last_name" type="string"></property>
+		<property name="designation" column="Designation" type="string"></property>
+		<property name="department" column="Department" type="string"></property>
+		<property name="emailID" column="Email_ID" type="string"></property>
+		<property name="salary" column="Salary" type="string"></property>
+		<property name="address" column="Address" type="string"></property>
+		<property name="phoneNumber" column="Phone_Number" type="string"></property>
+		<property name="reporting" column="Reporting" type="string"></property>
+		<property name="dateOfJoin" column="Date_Of_Join" type="string"></property>
+		<property name="dateOfTermination" column="Date_Of_Termination" type="string"></property>
+		<property name="status" column="Status" type="string"></property>
+		
+	</class>
+</hibernate-mapping>
